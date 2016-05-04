@@ -2,6 +2,7 @@ package com.gmail.filoghost.chestcommands.internal.icon;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Map.Entry;
 
 import org.bukkit.entity.Player;
 
